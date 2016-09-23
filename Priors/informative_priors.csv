@@ -1,0 +1,25 @@
+Species,Parameter,Age,Sex,Mean,SE,Tau
+Mtn Lion,Survival,YOY,F,0.5,0.1,100
+Mtn Lion,Survival,Juvenile,F,0.75,0.1,100
+Mtn Lion,Survival,SubAdult,F,0.57,0.1,100
+Mtn Lion,Survival,Adult,F,0.8,0.05,400
+Mtn Lion,Survival,YOY,M,0.5,0.1,100
+Mtn Lion,Survival,Juvenile,M,0.75,0.1,100
+Mtn Lion,Survival,SubAdult,M,0.49,0.1,100
+Mtn Lion,Survival,Adult,M,0.65,0.05,400
+Mtn Lion,HarvMort,Juvenile,F,0.01,0.01,10000
+Mtn Lion,HarvMort,SubAdult,F,0.25,0.1,100
+Mtn Lion,HarvMort,Adult,F,0.1,0.1,100
+Mtn Lion,OtherMort,Juvenile,F,0.24,0.1,100
+Mtn Lion,OtherMort,SubAdult,F,0.18,0.1,100
+Mtn Lion,OtherMort,Adult,F,0.05,0.1,100
+Mtn Lion,HarvMort,Juvenile,M,0.01,0.1,100
+Mtn Lion,HarvMort,SubAdult,M,0.35,0.1,100
+Mtn Lion,HarvMort,Adult,M,0.2,0.1,100
+Mtn Lion,OtherMort,Juvenile,M,0.24,0.1,100
+Mtn Lion,OtherMort,SubAdult,M,0.16,0.1,100
+Mtn Lion,OtherMort,Adult,M,0.15,0.1,100
+Mtn Lion,Fetus Count,SubAdult,F,3,0.1,100
+Mtn Lion,Fetus Count,Adult,F,3,0.1,100
+Mtn Lion,Pregnancy,SubAdult,F,0.25,0.01,10000
+Mtn Lion,Pregnancy,Adult,F,0.5,0.01,10000
